@@ -1,0 +1,6 @@
+export const FETCH_USERS_REQUEST = 'FETCH_USERS_REQUEST';
+export const FETCH_USERS_SUCCESS = 'FETCH_USERS_SUCCESS';
+export const SELECT_USER = 'SELECT_USER';
+export const SET_SEARCH_QUERY = 'SET_SEARCH_QUERY';
+export const SET_PAGE = 'SET_PAGE';
+export const SET_PAGE_SIZE = 'SET_PAGE_SIZE';
